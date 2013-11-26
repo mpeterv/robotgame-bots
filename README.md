@@ -15,10 +15,11 @@ List of all bots in this repo approximately sorted by rating:
 8. DwarfDefender
 9. stupid 2.6
 10. blowcake
-11. Ghoulinator V
-12. snoflake
-13. kamikaze112213
-14. MightWinSometimes
-15. SuperShibe
-16. rowlake
-17. Sunguard
+11. schmosby
+12. Ghoulinator V
+13. snoflake
+14. kamikaze112213
+15. MightWinSometimes
+16. SuperShibe
+17. rowlake
+18. Sunguard
