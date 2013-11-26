@@ -1,3 +1,6 @@
+# schmosby by sdvinay
+# http://robotgame.org/viewrobot/5977
+
 import rg
 import random
 
