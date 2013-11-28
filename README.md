@@ -22,4 +22,5 @@ List of all bots in this repo approximately sorted by rating:
 15. MightWinSometimes
 16. SuperShibe
 17. rowlake
-18. Sunguard
+18. Gir
+19. Sunguard
