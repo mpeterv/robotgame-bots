@@ -5,22 +5,23 @@ Feel free to send pull requests to add your bot here. Bots posted [on reddit](ht
 
 List of all bots in this repo approximately sorted by rating: 
 
-1. ddzialak2
-2. Stalins beard
-3. stupid 2.7.2
-4. stupid 2.7.1
-5. stupid 2.7
-6. stupid 2.6.1.0.1
-7. stupid 2.6.1
-8. DwarfDefender
-9. stupid 2.6
-10. blowcake
-11. schmosby
-12. Ghoulinator V
-13. snoflake
-14. kamikaze112213
-15. MightWinSometimes
-16. SuperShibe
-17. rowlake
-18. Gir
-19. Sunguard
+1. BetterThanTheRest
+2. ddzialak2
+3. Stalins beard
+4. stupid 2.7.2
+5. stupid 2.7.1
+6. stupid 2.7
+7. stupid 2.6.1.0.1
+8. stupid 2.6.1
+9. DwarfDefender
+10. stupid 2.6
+11. blowcake
+12. schmosby
+13. Ghoulinator V
+14. snoflake
+15. kamikaze112213
+16. MightWinSometimes
+17. SuperShibe
+18. rowlake
+19. Gir
+20. Sunguard
