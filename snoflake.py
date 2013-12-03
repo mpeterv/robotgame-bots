@@ -4,7 +4,7 @@
 import rg
 
 class Robot:
-    
+
     def num_enemies(self, game):
         enemies = 0
         for location, bot in game.get('robots').items():
@@ -12,7 +12,7 @@ class Robot:
                 if 1 == rg.wdist(self.location, location):
                     enemies += 1
         return enemies
-    
+
     def num_frieds(self, game):
         friends = 0
         for location, bot in game.get('robots').items():
@@ -20,7 +20,7 @@ class Robot:
                 if 1 == rg.wdist(self.location, location):
                     friends += 1
         return friends
-    
+
     def act(self, game):
         num_enemies = self.num_enemies(game)
         if num_enemies * 9 > self.hp:
@@ -38,11 +38,11 @@ class Robot:
                     move_to = location
         if min_distance < 2:
             move_to = rg.CENTER_POINT
-            
+
         if self.location == rg.CENTER_POINT:
             return ['guard']
-        
+
         if self.num_frieds(game) > 1:
             return ['guard']
-        
+
         return ['move', rg.toward(self.location, move_to)]
