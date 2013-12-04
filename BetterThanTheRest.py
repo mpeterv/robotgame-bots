@@ -25,7 +25,7 @@ class Robot:
                         if enemy in game['robots']:
                             if game['robots'][enemy].player_id != self.player_id:
                                 enemyCount += 1
-                    if enemyCount > 0:      
+                    if enemyCount > 0:
                         return ['attack', potentialShot]
             return ['attack', rg.toward(self.location, closestEnemy)]
 
@@ -51,11 +51,11 @@ class Robot:
                                 for gtfo in rg.locs_around(self.location, filter_out=('invalid', 'obstacle', 'spawn')):
                                     if gtfo not in game['robots']:
                                         return ['move', gtfo]
-                                        
+
             return "nope"
-                                
-                            
-                        
+
+
+
         if 'spawn' in rg.loc_types(self.location):
             goodPlaces = rg.locs_around(self.location, filter_out=('invalid', 'obstacle'))
         else:
@@ -68,7 +68,7 @@ class Robot:
             goodPlaces.remove((3,15))
         if (15,15) in goodPlaces:
             goodPlaces.remove((15,15))
-        
+
         for loc in rg.locs_around(self.location, filter_out=('invalid', 'obstacle')):
                 if loc in game['robots']:
                     if game['robots'][loc].player_id != self.player_id:
@@ -85,7 +85,7 @@ class Robot:
             escape = gtfo()
             if escape != "nope":
                 return gtfo()
-        
+
 
         for loc, bot in game['robots'].iteritems():
             if bot.player_id != self.player_id:
@@ -107,7 +107,7 @@ class Robot:
                                 if game['robots'][enemy].player_id != self.player_id:
                                     bad = True
                         if loc not in goodPlaces:
-                           bad = True 
+                           bad = True
                         if not bad:
                             return ['move', loc]
                 if bestAlly > 5:
@@ -142,7 +142,7 @@ class Robot:
                                     if ally in game['robots']:
                                         if game['robots'][ally].player_id == self.player_id:
                                             return ['move', fightHelp]
-                        
+
 
         if rg.wdist(closestEnemy, self.location) <= enemyDistance:
             place = rg.toward(self.location, closestEnemy)
@@ -155,7 +155,7 @@ class Robot:
                         badEnemies += 1
                 if place in goodPlaces:
                     if badEnemies < 3:
-                        return ['move', place]       
+                        return ['move', place]
 
         if rg.wdist(closestAlly, self.location) <= allyDistance:
             if rg.toward(self.location, loc) != self.location:
@@ -167,3 +167,4 @@ class Robot:
             return ['guard']
         if rg.toward(rg.toward(self.location, rg.CENTER_POINT), loc) in goodPlaces:
             return ['move', rg.toward(self.location, rg.CENTER_POINT)]
+        return ['guard']
