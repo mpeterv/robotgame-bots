@@ -1,3 +1,6 @@
+# Khal Brogo by toshima
+# http://robotgame.org/viewrobot/7962
+
 import rg
 import numpy as np
 
