@@ -14,14 +14,16 @@ List of all bots in this repo approximately sorted by rating:
 7. stupid 2.6.1.0.1
 8. stupid 2.6.1
 9. DwarfDefender
-10. stupid 2.6
-11. blowcake
-12. schmosby
-13. Ghoulinator V
-14. snoflake
-15. kamikaze112213
-16. MightWinSometimes
-17. SuperShibe
-18. rowlake
-19. Gir
-20. Sunguard
+10. Khal Brogo
+11. Brodo Baggins
+12. stupid 2.6
+13. blowcake
+14. schmosby
+15. Ghoulinator V
+16. snoflake
+17. kamikaze112213
+18. MightWinSometimes
+19. SuperShibe
+20. rowlake
+21. Gir
+22. Sunguard
