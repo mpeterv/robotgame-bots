@@ -1,3 +1,6 @@
+# Brodo Baggins by toshima
+# http://robotgame.org/viewrobot/7814
+
 import rg
 import numpy as np
 
