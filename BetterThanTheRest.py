@@ -167,3 +167,4 @@ class Robot:
             return ['guard']
         if rg.toward(rg.toward(self.location, rg.CENTER_POINT), loc) in goodPlaces:
             return ['move', rg.toward(self.location, rg.CENTER_POINT)]
+        return ['guard']
