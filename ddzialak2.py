@@ -89,7 +89,7 @@ class Robot:
             if self.hp < 15 or len(oppos) > 1:# or self.hp < oppo_hp:
                 return self.away(robots, empties)
             return self.attack(robots, oppos)
-       
+
         if not empties and len(oppos) >= 1:
             if self.hp <= 9*len(oppos):
                 return ['suicide']
@@ -100,7 +100,7 @@ class Robot:
                     minopo = oppo
                     minhp = oppo['hp']
             return ['attack', minopo['location']]
-       
+
         if not oppos and empties:
             cand = self.tryToHitOpo(robots, empties, game['turn'])
             if cand:
