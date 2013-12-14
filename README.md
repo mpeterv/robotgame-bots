@@ -30,3 +30,4 @@ List of all bots in this repo approximately sorted by rating:
 23. rowlake
 24. Gir
 25. Sunguard
+26. terrible bot
