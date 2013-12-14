@@ -1,5 +1,4 @@
 # stupid 2.6.1 by peterm
-# http://robotgame.org/viewrobot/2983
 
 import random
 import math

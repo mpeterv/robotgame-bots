@@ -1,3 +1,6 @@
+# Karen Roper 1.0 by Adam
+# http://robotgame.net/viewrobot/7819
+
 import rg
 
 escapeSquares = []

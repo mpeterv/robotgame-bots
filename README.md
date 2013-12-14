@@ -7,23 +7,25 @@ List of all bots in this repo approximately sorted by rating:
 
 1. BetterThanTheRest
 2. ddzialak2
-3. Stalins beard
-4. stupid 2.7.2
-5. stupid 2.7.1
-6. stupid 2.7
-7. stupid 2.6.1.0.1
-8. stupid 2.6.1
-9. DwarfDefender
-10. Khal Brogo
-11. Brodo Baggins
-12. stupid 2.6
-13. blowcake
-14. schmosby
-15. Ghoulinator V
-16. snoflake
-17. kamikaze112213
-18. MightWinSometimes
-19. SuperShibe
-20. rowlake
-21. Gir
-22. Sunguard
+3. Karen Roper 1.0
+4. chasin' the Trane
+5. Stalins beard
+6. stupid 2.7.2
+7. stupid 2.7.1
+8. stupid 2.7
+9. stupid 2.6.1.0.1
+10. stupid 2.6.1
+11. DwarfDefender
+12. Khal Brogo
+13. Brodo Baggins
+14. stupid 2.6
+15. blowcake
+16. schmosby
+17. Ghoulinator V
+18. snoflake
+19. kamikaze112213
+20. MightWinSometimes
+21. SuperShibe
+22. rowlake
+23. Gir
+24. Sunguard
