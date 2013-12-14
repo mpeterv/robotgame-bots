@@ -49,7 +49,7 @@ def should_attack(robot, game):
 			if rg.wdist(loc, robot.location) == 2:
 				if other.player_id != robot.player_id:
 					if random.random() < ATTACK_PREEMPTIVELY:
-						print "Preemptive attack!", robot.location, loc, rg.toward(robot.location, loc)
+						#print "Preemptive attack!", robot.location, loc, rg.toward(robot.location, loc)
 						return rg.toward(robot.location, loc)
 	return None
 
@@ -62,7 +62,7 @@ def should_assist(robot, game):
 					if rg.dist(other.location, robot.location) == 2: # the 2 robots are on a line
 						target_space = rg.toward(robot.location, other.location)
 						if target_space not in game.robots:
-							print 'assist!', target_space
+							#print 'assist!', target_space
 							return ['move', target_space]
 					else: # kitty corner, so need to check two target spaces
 						0

@@ -20,14 +20,15 @@ List of all bots in this repo approximately sorted by rating:
 13. Khal Brogo
 14. Brodo Baggins
 15. stupid 2.6
-16. blowcake
-17. schmosby
-18. Ghoulinator V
-19. snoflake
-20. kamikaze112213
-21. MightWinSometimes
-22. SuperShibe
-23. rowlake
-24. Gir
-25. Sunguard
-26. terrible bot
+16. BeatsTapion
+17. blowcake
+18. schmosby
+19. Ghoulinator V
+20. snoflake
+21. kamikaze112213
+22. MightWinSometimes
+23. SuperShibe
+24. rowlake
+25. Gir
+26. Sunguard
+27. terrible bot
