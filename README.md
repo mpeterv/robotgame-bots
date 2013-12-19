@@ -5,30 +5,33 @@ Feel free to send pull requests to add your bot here. Bots posted [on reddit](ht
 
 List of all bots in this repo approximately sorted by rating: 
 
-1. BetterThanTheRest
-2. Waterlinie 2.4
-3. ddzialak2
-4. Karen Roper 1.0
-5. chasin' the Trane
-6. Stalins beard
-7. stupid 2.7.2
-8. stupid 2.7.1
-9. stupid 2.7
-10. stupid 2.6.1.0.1
-11. stupid 2.6.1
-12. DwarfDefender
-13. Khal Brogo
-14. Brodo Baggins
-15. stupid 2.6
-16. BeatsTapion
-17. blowcake
-18. schmosby
-19. Ghoulinator V
-20. snoflake
-21. kamikaze112213
-22. MightWinSometimes
-23. SuperShibe
-24. rowlake
-25. Gir
-26. Sunguard
-27. terrible bot
+1. Dulladob 0.1
+2. liquid 1.0
+3. BetterThanTheRest
+4. Destructo
+5. Waterlinie 2.4
+6. ddzialak2
+7. Karen Roper 1.0
+8. chasin' the Trane
+9. Stalins beard
+10. stupid 2.7.2
+11. stupid 2.7.1
+12. stupid 2.7
+13. stupid 2.6.1.0.1
+14. stupid 2.6.1
+15. DwarfDefender
+16. Khal Brogo
+17. Brodo Baggins
+18. stupid 2.6
+19. BeatsTapion
+20. blowcake
+21. schmosby
+22. Ghoulinator V
+23. snoflake
+24. kamikaze112213
+25. MightWinSometimes
+26. SuperShibe
+27. rowlake
+28. Gir
+29. Sunguard
+30. terrible bot
