@@ -5,6 +5,7 @@ Feel free to send pull requests to add your bot here. Bots posted [on reddit](ht
 
 List of all bots in this repo approximately sorted by rating:
 
+* ribbit 0.8
 * Dulladob 0.1
 * liquid 1.0
 * BetterThanTheRest
