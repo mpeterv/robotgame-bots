@@ -4,6 +4,8 @@
 
 This is a collection of open-source bots for [robotgame](http://robotgame.net). It is useful for testing bots locally, without using the `Challenge` feature on the site. 
 
+[List of active open-source bots on the site. ](http://robotgame.net/directory?os=1)
+
 ## How to use it? 
 
 1. Clone the repository: 
@@ -49,7 +51,6 @@ BetterThanTheRest | BetterThanTheRest.py
 incalibur | incalibur.py
 Ten Thousand Noodles | Ten Thousand Noodles.py
 Cute Lil' Plasma | Cute Lil' Plasma.py
-Destructo | Destructo.py
 Waterlinie 2.4 | Waterlinie24.py
 ddzialak2 | ddzialak2.py
 Wall-E | Wall-E.py
